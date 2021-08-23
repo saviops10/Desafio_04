@@ -1,0 +1,14 @@
+C:\Users\israe\Desktop\Ubunto_Rookie\Desafio_04\Desafio_04\Desafio_04\bin\Debug\netcoreapp3.1\Desafio_04.exe
+C:\Users\israe\Desktop\Ubunto_Rookie\Desafio_04\Desafio_04\Desafio_04\bin\Debug\netcoreapp3.1\Desafio_04.deps.json
+C:\Users\israe\Desktop\Ubunto_Rookie\Desafio_04\Desafio_04\Desafio_04\bin\Debug\netcoreapp3.1\Desafio_04.runtimeconfig.json
+C:\Users\israe\Desktop\Ubunto_Rookie\Desafio_04\Desafio_04\Desafio_04\bin\Debug\netcoreapp3.1\Desafio_04.runtimeconfig.dev.json
+C:\Users\israe\Desktop\Ubunto_Rookie\Desafio_04\Desafio_04\Desafio_04\bin\Debug\netcoreapp3.1\Desafio_04.dll
+C:\Users\israe\Desktop\Ubunto_Rookie\Desafio_04\Desafio_04\Desafio_04\bin\Debug\netcoreapp3.1\Desafio_04.pdb
+C:\Users\israe\Desktop\Ubunto_Rookie\Desafio_04\Desafio_04\Desafio_04\obj\Debug\netcoreapp3.1\Desafio_04.csproj.AssemblyReference.cache
+C:\Users\israe\Desktop\Ubunto_Rookie\Desafio_04\Desafio_04\Desafio_04\obj\Debug\netcoreapp3.1\Desafio_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israe\Desktop\Ubunto_Rookie\Desafio_04\Desafio_04\Desafio_04\obj\Debug\netcoreapp3.1\Desafio_04.AssemblyInfoInputs.cache
+C:\Users\israe\Desktop\Ubunto_Rookie\Desafio_04\Desafio_04\Desafio_04\obj\Debug\netcoreapp3.1\Desafio_04.AssemblyInfo.cs
+C:\Users\israe\Desktop\Ubunto_Rookie\Desafio_04\Desafio_04\Desafio_04\obj\Debug\netcoreapp3.1\Desafio_04.csproj.CoreCompileInputs.cache
+C:\Users\israe\Desktop\Ubunto_Rookie\Desafio_04\Desafio_04\Desafio_04\obj\Debug\netcoreapp3.1\Desafio_04.dll
+C:\Users\israe\Desktop\Ubunto_Rookie\Desafio_04\Desafio_04\Desafio_04\obj\Debug\netcoreapp3.1\Desafio_04.pdb
+C:\Users\israe\Desktop\Ubunto_Rookie\Desafio_04\Desafio_04\Desafio_04\obj\Debug\netcoreapp3.1\Desafio_04.genruntimeconfig.cache
