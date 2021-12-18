@@ -15,21 +15,21 @@ namespace Desafio_04
 
             for (int i = 0; i < alunosArray.Length; i++)
             {
-                int count = i + 1;
+                int count = i + 1;  
 
-                Console.WriteLine("Qual o nome do aluno {0}?", count);
+                Console.WriteLine("Qual o nome do aluno {0}?", count); //Array para receber o nome
                 string nome = Console.ReadLine();
 
-                Console.WriteLine("Qual a idade do {0}?", nome);
+                Console.WriteLine("Qual a idade do {0}?", nome); // Array para receber idade + conversão para inteiro
                 int idade = Convert.ToInt32(Console.ReadLine());
 
-                Console.WriteLine("Qual a nota do {0}? ", nome);
+                Console.WriteLine("Qual a nota do {0}? ", nome); // Array para receber nota + conversão para double
                 double nota = Double.Parse(Console.ReadLine());
 
                 alunosArray[i] = new Aluno(nome, idade, nota);
             }
 
-            Console.WriteLine("Lista em Array:");
+            Console.WriteLine("Lista em Array:"); // Exibir lista do Array, var respectivamente.
 
             for (int i = 0; i < alunosArray.Length; i++)
             {
@@ -37,9 +37,9 @@ namespace Desafio_04
                 somaNotaArray += alunosArray[i].nota;
             }
 
-            Console.WriteLine("Notas dos alunos somadas: " + totalNotaArray);
+            Console.WriteLine("Soma da Notas dos Alunos: " + totalNotaArray);
 
-            List<Aluno> alunosList = new List<Aluno>();
+            List<Aluno> alunosList = new List<Aluno>(); // Comando para criar lista com objeto.
 
             alunosList.Add(new Aluno(alunosArray[0].nome, alunosArray[0].idade, alunosArray[0].nota));
             alunosList.Add(new Aluno(alunosArray[1].nome, alunosArray[1].idade, alunosArray[1].nota));
@@ -48,12 +48,12 @@ namespace Desafio_04
             Console.WriteLine("\n");
             Console.WriteLine("Lista com Objeto:");
 
-            foreach (Aluno i in alunosList)
+            foreach (Aluno i in alunosList) 
             {
                 Console.WriteLine("Aluno: " + i.Nome + ", Idade: " + i.Idade + ", Nota: " + i.Nota);
                 somaNotaList += i.nota;
             }
-            Console.WriteLine("Notas dos alunos somadas: " + totalNotaList);
+            Console.WriteLine("Soma da Notas dos Alunos: " + totalNotaList);
 
         }
     }
