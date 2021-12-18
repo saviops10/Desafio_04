@@ -1,14 +1,14 @@
 using System;
 using System.Collections.Generic;
 
-public class Aluno
+public class Aluno   // definir classe e variaveis que serão utilizadas
 {
     public string nome;
     public int idade;
     public double nota;
 
-
-    public string Nome { get; set; }
+    // get = receber , set = alterar
+    public string Nome { get; set; }  
     public int Idade { get; set; }
     public double Nota { get; set; }
     public Aluno(string nome, int idade, double nota)
